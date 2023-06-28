@@ -9,13 +9,14 @@
 - <a href="https://www.codewars.com/users/Littlebip/badges/large"></a>
 
 <h3 align="left">About me:</h3>
-<p>Hey there! 👋 My name is Kavish Hukmani, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
+<p>Hey there! 👋 My name is Lucile Grandjean, and I'm a creation-driven 🎨, high-energy 🏋️‍♀️ full-stack developer 💻 with a hands-on approach 🔧 to problem-solving and an unending thirst for knowledge 📖. 
 
-Currently, I'm based in the beautiful city of San Francisco 🌉 where I work as a Data Scientist 🧑‍🔬 at Unison, tackling fascinating problems in Finance 💰, Housing 🏠, and Marketing 📣. Before that, I was part of the Impact Analytics team, creating products that helped top Retail 💃 and CPG 🍫 companies make data-driven decisions like a breeze. Oh, and I proudly hold an MS in Business Analytics 📊 from UC Davis 🎓.
+I am currently based in the sunny South of France 🌄 where I just graduated from Le Wagon Web Development bootcamp 🪖. Before that, I was on the front-line of early-education in China, helping my students to make the best of starts when I was a teacher, but also finding diverse ways to 
+<a href="https://youtu.be/lKfCNammDck">get their interest.</a>
 
-When I'm not immersed in the world of technology, you can find me following a range of sports, from Soccer ⚽ and Formula1 🏎️ to various eSports 🖱️. Apart from that, I love solving puzzles 🧩 and listening to music 🎶.
+When I'm not immersed in the world of technology, you can find me hiking, running or doing other various outdoor sports. Apart from that, I love a good read and gardening.
 
-I'm always open to new ideas and opportunities. You can learn more about me on my website 🌐 or connect with me on LinkedIn 👥. Feel free to reach out to me directly at khukmani@gmail.com 📧. Let's connect and explore exciting possibilities together! 🚀</p>
+I'm always open to new ideas and opportunities. You can learn more about me on <a href="#">my website 🌐</a> or connect with me on <a href="https://www.linkedin.com/in/lucile-grandjean/">LinkedIn 👥</a>. Feel free to reach out to me directly at grandjean.lucile@hotmail.fr 📧. Let's connect and explore exciting possibilities together! 🚀</p>
 <p align="left">
 </p>
 
