@@ -4,7 +4,7 @@
 <p>I am a Junior Full-Stack Developer with a seven-year-long background in early education.  I recently graduated from Le Wagon intensive Web Development bootcamp and completed a group project building a website organizing local photography communities. Creation makes me thrive: I love bringing up projects in a hands-on, proactive way.</p>
 
 - 📫 How to reach me **grandjean.lucile@hotmail.fr**
-- https://www.codewars.com/users/Littlebip/badges/large
+- <a href="https://www.codewars.com/users/Littlebip/badges/large"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
