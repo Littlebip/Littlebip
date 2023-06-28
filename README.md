@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucile</h1>
 <h3 align="center">A dedicated Junior Full Stack Developer from France</h3>
+<p>I am a Junior Full-Stack Developer with a seven-year-long background in early education.  I recently graduated from Le Wagon intensive Web Development bootcamp and completed a group project building a website organizing local photography communities. Creation makes me thrive: I love bringing up projects in a hands-on, proactive way.</p>
 
 - 📫 How to reach me **grandjean.lucile@hotmail.fr**
 
