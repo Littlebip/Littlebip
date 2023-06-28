@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Lucile</h1>
+<h1 align="center">Hi, I'm Lucile!</h1>
 <h3 align="center">A dedicated Junior Full Stack Developer from France</h3>
-<img width="250" src="https://media.giphy.com/media/a342Mh0bNtoJEIrMJa/giphy.gif">
+<img width="150" src="https://media.giphy.com/media/a342Mh0bNtoJEIrMJa/giphy.gif">
+
+
 <p>I am a Junior Full-Stack Developer with a seven-year-long background in early education.  I recently graduated from Le Wagon intensive Web Development bootcamp and completed a group project building a website organizing local photography communities. Creation makes me thrive: I love bringing up projects in a hands-on, proactive way.</p>
 
 - 📫 How to reach me **grandjean.lucile@hotmail.fr**
 - <a href="https://www.codewars.com/users/Littlebip/badges/large"></a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
+<p>Hey there! 👋 My name is Kavish Hukmani, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
+
+Currently, I'm based in the beautiful city of San Francisco 🌉 where I work as a Data Scientist 🧑‍🔬 at Unison, tackling fascinating problems in Finance 💰, Housing 🏠, and Marketing 📣. Before that, I was part of the Impact Analytics team, creating products that helped top Retail 💃 and CPG 🍫 companies make data-driven decisions like a breeze. Oh, and I proudly hold an MS in Business Analytics 📊 from UC Davis 🎓.
+
+When I'm not immersed in the world of technology, you can find me following a range of sports, from Soccer ⚽ and Formula1 🏎️ to various eSports 🖱️. Apart from that, I love solving puzzles 🧩 and listening to music 🎶.
+
+I'm always open to new ideas and opportunities. You can learn more about me on my website 🌐 or connect with me on LinkedIn 👥. Feel free to reach out to me directly at khukmani@gmail.com 📧. Let's connect and explore exciting possibilities together! 🚀</p>
 <p align="left">
 </p>
 
