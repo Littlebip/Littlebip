@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucile</h1>
 <h3 align="center">A dedicated Junior Full Stack Developer from France</h3>
 <img width="250" src="https://media.giphy.com/media/loUqCMSfXHcsVb3cUZ/giphy.gif">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/loUqCMSfXHcsVb3cUZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/illustration-sun-digital-art-loUqCMSfXHcsVb3cUZ">via GIPHY</a></p>
 <p>I am a Junior Full-Stack Developer with a seven-year-long background in early education.  I recently graduated from Le Wagon intensive Web Development bootcamp and completed a group project building a website organizing local photography communities. Creation makes me thrive: I love bringing up projects in a hands-on, proactive way.</p>
 
 - 📫 How to reach me **grandjean.lucile@hotmail.fr**
