@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Lucile!</h1>
-<img width="150" src="https://media.giphy.com/media/a342Mh0bNtoJEIrMJa/giphy.gif">
+<h1 align="center"><img width="150" src="https://media.giphy.com/media/uqpK3SuxEY4W9YQvdg/giphy.gif"> Hi, I'm Lucile!</h1>
+
 
 <h2 align="left">About me:</h2>
 <p>Hey there! 👋 My name is Lucile Grandjean, and I'm a creation-driven 🎨, high-energy 🏋️‍♀️ full-stack developer 💻 with a hands-on approach to problem-solving  🔧 and an unending thirst for knowledge 📖. 
