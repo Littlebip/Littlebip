@@ -9,7 +9,7 @@ I am currently based in the sunny South of France 🌄 where I just graduated �
 
 When I'm not immersed in the world of technology 💻, you can find me hiking, running 🏃‍♀️ or doing other various outdoor sports 🏊‍♀️🚵‍♀️🧗‍♀️🪂. Apart from that, I love a good read 📖 and gardening 🥕.
 
-I'm always open to new ideas and opportunities. You can learn more about me on <a href="#">my website 🌐</a> or connect with me on <a href="https://www.linkedin.com/in/lucile-grandjean/">LinkedIn 👥</a>. Feel free to reach out to me directly at grandjean.lucile@hotmail.fr 📧. Let's connect and explore exciting possibilities together! 🚀</p>
+I'm always open to new ideas and opportunities. Please have a look at <a href="https://littlebip.github.io/portfolio/">my portfolio 🌐</a> or connect with me on <a href="https://www.linkedin.com/in/lucile-grandjean/">LinkedIn 👥</a>. Feel free to reach out to me directly at grandjean.lucile@hotmail.fr 📧. Let's have a chat and explore exciting possibilities together! 🚀</p>
 <p align="left">
 </p>
 
