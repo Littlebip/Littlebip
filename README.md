@@ -7,7 +7,7 @@
 I am currently based in the sunny South of France 🌄 where I just graduated 🎓 from Le Wagon Web Development bootcamp 🪖. Before that, I was on the front-line of early-education in China🧋, helping my students to make the best of starts when I was a teacher, but also finding diverse ways to 
 <a href="https://youtu.be/lKfCNammDck">get their interest 🦈👀.</a>
 
-When I'm not immersed in the world of technology 💻, you can find me hiking, running 🏃‍♀️ or doing other various outdoor sports 🏊‍♀️🚵‍♀️🧗‍♀️🪂. Apart from that, I love to create new recipes 🍲🎂 and gardening 🥕.
+When I'm not immersed in the world of technology 💻, you can find me hiking, running 🏃‍♀️ or doing other various outdoor sports 🏊‍♀️🚵‍♀️🧗‍♀️🪂. Apart from that, I love to create new recipes 🍲🎂 gardening 🥕 and a good read 📖.
 
 I'm always open to new ideas and opportunities. Please have a look at <a href="https://littlebip.github.io/portfolio/">my portfolio 🌐</a> or connect with me on <a href="https://www.linkedin.com/in/lucile-grandjean/">LinkedIn 👥</a>. Feel free to reach out to me directly at grandjean.lucile@hotmail.fr 📧. Let's have a chat and explore exciting possibilities together! 🚀</p>
 <p align="left">
